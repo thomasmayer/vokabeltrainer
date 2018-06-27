@@ -1,0 +1,7 @@
+{
+  "port" : 3333,
+  "server": {
+    "baseDir": ["./src"]
+  },
+  "cors" : true
+}
